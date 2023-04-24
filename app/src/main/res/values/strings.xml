@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">API Doggo</string>
+    <string name="dog_imageDesc">Dog image</string>
+    <string name="new_dog">New Dog</string>
+</resources>
